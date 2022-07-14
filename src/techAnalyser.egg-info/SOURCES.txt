@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/techAnalyser/__init__.py
+src/techAnalyser/main.py
+src/techAnalyser.egg-info/PKG-INFO
+src/techAnalyser.egg-info/SOURCES.txt
+src/techAnalyser.egg-info/dependency_links.txt
+src/techAnalyser.egg-info/top_level.txt

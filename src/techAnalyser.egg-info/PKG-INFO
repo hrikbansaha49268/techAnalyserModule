@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: techAnalyser
+Version: 0.0.1
+Summary: A small package to do Technical analysis of stocks using Yahoo Finance API.
+Home-page: https://github.com/pypa/sampleproject
+Author: Hrikban Saha
+Author-email: hrikbans@gmail.com
+Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+## This is a Python Module which helps in Technical Analysis
+
+To install in your directory copy the below command to your terminal<br />
+`pip install -i https://test.pypi.org/simple/ technicalAnalyser`
+
+#### For further documentation <br/>
+
+Visit https://test.pypi.org/manage/project/technicalanalyser/releases/
